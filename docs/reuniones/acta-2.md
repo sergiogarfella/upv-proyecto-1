@@ -1,6 +1,6 @@
 # Actas de Reunión Proyecto IA
 
-*Acta de Reunión 2: Desglose de Fases y Ciclo de Datos*
+## *Acta de Reunión 2: Desglose de Fases y Ciclo de Datos*
 
 **Fecha**: 03/02/2026
 
