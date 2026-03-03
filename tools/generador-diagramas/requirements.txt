@@ -1,0 +1,5 @@
+requests>=2.28.0
+matplotlib>=3.7.0
+numpy>=1.24.0
+networkx
+graphviz
