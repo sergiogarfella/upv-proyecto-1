@@ -72,3 +72,5 @@ pytest_cache/
 # dotenv
 # =========================
 .env
+
+.gitignore
