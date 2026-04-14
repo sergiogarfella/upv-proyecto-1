@@ -1,76 +1,64 @@
-# =========================
+# =====================================
 # macOS
-# =========================
+# =====================================
 .DS_Store
 .AppleDouble
 .LSOverride
-
-# Icon must end with two \r
-Icon
-
-# Thumbnails
 ._*
-
-# Files that might appear in the root of a volume
-.DocumentRevisions-V100
-.fseventsd
 .Spotlight-V100
-.TemporaryItems
 .Trashes
-.VolumeIcon.icns
 
-# =========================
+# =====================================
 # Python
-# =========================
+# =====================================
 __pycache__/
 *.py[cod]
 *$py.class
 
-# C extensions
-*.so
-
-# Distribution / packaging
-.Python
+# Distribución
 build/
 dist/
 *.egg-info/
 .eggs/
 
-# Virtual environments
+# =====================================
+# Entornos virtuales
+# =====================================
 venv/
-.env/
 .venv/
-ENV/
 env/
+ENV/
+.env/
 
-# Pip
+# =====================================
+# Dependencias y cachés
+# =====================================
 pip-log.txt
 pip-delete-this-directory.txt
-
-# Unit test / coverage
-htmlcov/
+.pytest_cache/
 .tox/
-.nox/
 .coverage
-.coverage.*
-.cache
-pytest_cache/
+htmlcov/
 
+# =====================================
 # Jupyter Notebook
-.ipynb_checkpoints
+# =====================================
+.ipynb_checkpoints/
 
-# VS Code / editors
+# =====================================
+# Editores / IDEs
+# =====================================
 .vscode/
 .idea/
+*.swp
 
-# =========================
-# Logs
-# =========================
-*.log
-
-# =========================
-# dotenv
-# =========================
+# =====================================
+# Variables de entorno
+# =====================================
 .env
+*.env
 
-.gitignore
+# =====================================
+# Logs
+# =====================================
+*.log
